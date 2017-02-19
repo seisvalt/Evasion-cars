@@ -1,0 +1,17 @@
+{
+  "name": "Evasion-cars",
+  "version": "0.1.0",
+  "description": "Juego demostracion",
+  "repository": {
+    "type": "git",
+    "url": "git+https:////github.com/seisvalt/Evasion-cars.git"
+  },
+  "keywords": [
+    "ecosystem:phonegap",
+    "ecosystem:cordova",
+    "cordova:template",
+    "phonegap:template"
+  ],
+  "author": "seisvalt",
+  "license": "Apache-2.0"
+}
